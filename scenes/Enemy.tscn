@@ -20,4 +20,4 @@ vframes = 2
 frame = 1
 
 [node name="Area Trigger" parent="." instance=ExtResource( 3 )]
-scale = Vector2( 0.151653, 0.0692428 )
+scale = Vector2( 1e-05, 1e-05 )
